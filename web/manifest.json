@@ -1,0 +1,35 @@
+{
+    "name": "fresh_nest",
+    "short_name": "fresh_nest",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Welcome to FreshNest, an online marketplace that connects local vegetable sellers and farmers directly with customers who are seeking fresh and nutritious produce. We believe in fostering a direct connection between producers and consumers, empowering local communities, and promoting sustainable farming practices.  With FreshNest, you can explore a wide range of locally grown vegetables, sourced directly from farmers in your area. By eliminating intermediaries, we ensure that you receive the freshest and highest-quality produce while supporting local farmers and their livelihoods.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
